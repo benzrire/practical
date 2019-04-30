@@ -1,0 +1,5 @@
+Product ID   Name           Quantity     Unit price     Cost
+101          Pencil         1            2.00           2.00
+102          Ruler          3            4.00           12.00
+105          Eraser         6            7.00           42.00
+                                                  Total 56.00

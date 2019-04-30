@@ -1,0 +1,2 @@
+min=1.10 max=1.10 average=1.10 data={ 1.10 }
+min=1.10 max=2.20 average=1.65 data={ 1.10,2.20 }
